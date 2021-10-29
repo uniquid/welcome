@@ -3,11 +3,11 @@
 UniquID is an open source Identity and Access Management protocol, built to remove the bottlenecks of centralized authentication and authorization infrastructure.
 
 UniquID's peer-to-peer protocol is an enabling technology to deploy modular, atomic and low-trust networks of endpoints.
-_Modular_: the protocol runs on a distributed network of nodes, hostedy by: edge routers, virtualized servers and containers, mobile phones. Increasing the number of these nodes expands the availability of the infrastructure.
-_Atomic_: every device hosts the minimal information necessary to authenticate and authorize other peers. The size is \~50 bytes per authorized entity.
-_Low-trust_: the authentication and authorization information is encoded and hashed into microtransactions, stored on a public ledger.
+- _Modular_: the protocol runs on a distributed network of nodes, hostedy by: edge routers, virtualized servers and containers, mobile phones. Increasing the number of these nodes expands the availability of the infrastructure.
+- _Atomic_: every device hosts the minimal information necessary to authenticate and authorize other peers. The size is \~50 bytes per authorized entity.
+- _Low-trust_: the authentication and authorization information is encoded and hashed into microtransactions, stored on a public ledger.
 
-UniquID is designed to be very efficient for:
+UniquID is more efficient than traditional IAM for:
 - authentication and authorization under unreliable connectivity
 - single sign-on between multiple cloud services, IoT and unmanned devices with different owners
 - authenticated, low-latency machine-to-machine communication
