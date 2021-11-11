@@ -1,0 +1,25 @@
+/*
+Uniquid red:  #e33217;
+Uniquid light grey:  #d4d4d4;
+Uniquid dark grey:  #424242;
+*/
+
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #e33217;
+    background-image: linear-gradient(
+120deg, #952818, #e33217);
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #424242;
+}
+
+a {
+    color: #e33217;
+    text-decoration: none;
+}
