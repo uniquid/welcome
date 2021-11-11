@@ -15,8 +15,9 @@ Get in touch with us at [hello@uniquid.com](mailto:hello@uniquid.com) if you are
 
 ## Learn more from:
 
-- The [Official blog on Medium](https://medium.com/uniquid)
+- The [blog on Medium](https://medium.com/uniquid)
 - The White Paper ["UniquID: A Quest to Reconcile Identity Access Management and the Internet of Things"](https://arxiv.org/abs/1905.04021)
+- The [codebase on Github](https://github.com/uniquid)
 
 ## Technical documentation
 
