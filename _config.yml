@@ -4,10 +4,11 @@ google_analytics: UA-70853715-2
 
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
 include:
   - README.md
 
-theme: jekyll-theme-cayman
+theme: pages-themes/cayman@v0.2.0
